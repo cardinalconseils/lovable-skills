@@ -7,6 +7,38 @@ description: Use when the user wants to write, review, or improve marketing copy
 
 Expertise in writing copy that converts — not copy that sounds good. Converting copy is written for a specific reader at a specific awareness level with a single desired action.
 
+## Step 0 — Language Intake (MANDATORY, ask before writing anything)
+
+Before touching a framework or writing a single word, confirm:
+
+1. **Languages:** Are we writing in French, English, or both?
+2. **Primary language:** If bilingual — which comes first? (French-first for Quebec audiences; English-first for ROC/US/international)
+3. **Parity or adapt?** Straight translation, or adapt tone/idioms for each language independently?
+4. **Legal/compliance:** Any regulated terms that differ by language? (e.g., Quebec's *Charte de la langue française* requirements for B2C advertising)
+
+**Ask these as a grouped question block — never assume language from context.**
+
+### Bilingual Copy Rules (when both FR + EN are confirmed)
+
+- Write each language version from scratch — don't translate, adapt
+- French copy: longer sentences are acceptable, register is typically slightly more formal in B2B
+- English copy: shorter, punchier; contractions standard
+- Headlines that work in one language often don't land in the other — validate both independently against the Conversion Quality Signals below
+- If one language must come first in a layout (hero, email subject, ad headline): ask which, don't guess
+- Bilingual CTAs: use the same action verb family in both languages ("Commencer" / "Get started" — not "S'inscrire" / "Get started")
+
+### Language Intake Quick Reference
+
+| Audience | Primary language | Register |
+|---|---|---|
+| Quebec B2C | French first | Warm, direct, colloquial OK |
+| Quebec B2B | French first | Professional, less colloquial |
+| Canada national | English first, FR on request | Neutral English |
+| US / international | English only | Varies by brand voice |
+| Multilingual EU | Ask — no default | Varies by market |
+
+---
+
 ## Framework Selection
 
 - **Cold audience, pain-driven → PAS:** Problem → Agitate → Solution
@@ -98,3 +130,16 @@ Copy that won't convert:
 | "Our audience wants detail, not short copy" | Short copy fails when vague. Long copy fails when padded. Length follows complexity of the ask. |
 | "PAS feels too salesy" | PAS is just empathy structured: "I see your problem, here's why it matters, here's what fixes it." |
 | "We can't A/B test copy yet" | Write 3 headline variants by default. Pick one to run now. |
+| "Just write it in English, we'll translate later" | Translation produces mediocre French copy. Adaptation takes 20% more time and converts 2–3× better. |
+| "The language is obvious from context" | Never assume. Quebec B2B clients have been burned by English-first assumptions. Ask. |
+
+## Verification
+
+- [ ] Language intake completed — FR, EN, or both confirmed before writing
+- [ ] Primary language confirmed if bilingual
+- [ ] Parity vs adapt decision made
+- [ ] Each language version validated independently against Conversion Quality Signals
+- [ ] Bilingual CTAs use matching action verb families
+- [ ] Framework selected matches audience awareness level
+- [ ] Headline passes the "what's in it for me" test in ≤ 7 words
+- [ ] Single CTA per piece — no competing asks
